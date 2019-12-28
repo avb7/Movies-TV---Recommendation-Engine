@@ -1,5 +1,5 @@
 # Movies/TV Recommendation Engine
-###What Movie/TV Show are you most likely to watch? 
+## Which Movie/TV Show are you most likely to watch? 
 ![Recommender Engine|Small](https://cdn57.androidauthority.net/wp-content/uploads/2019/07/prime-video-fire-stick-screenshot-840x473.jpg)
 
 Research & Development by:
@@ -32,3 +32,5 @@ category of products, and will predict
 whether the user will purchase a given
 product or not.
 ```
+
+[Read the entire research report here](https://github.com/avb7/Movies-TV-Recommendation-Engine/blob/master/Report.pdf "Research Report")
