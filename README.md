@@ -1,10 +1,9 @@
-# MOVIES & TV PREDICTIONS
+# MOVIES & TV PREDICTIONS - Recommendation Engine
+![Recommender Engine|Small](https://cdn57.androidauthority.net/wp-content/uploads/2019/07/prime-video-fire-stick-screenshot-840x473.jpg)
 
-## John Jun
-
-## Abhay Kumar
-
-## Aditya Bhatnagar
+- John Jun
+- Abhay Kumar
+- Adi Bhatnagar
 
 ##### 11.30.
 
