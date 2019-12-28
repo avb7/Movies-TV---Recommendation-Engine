@@ -1,5 +1,5 @@
 # Movies/TV Recommendation Engine
-*Which Movie/TV Show are you most likely to watch?*
+
 ![Recommender Engine|Small](https://cdn57.androidauthority.net/wp-content/uploads/2019/07/prime-video-fire-stick-screenshot-840x473.jpg)
 
 Research & Development by:
