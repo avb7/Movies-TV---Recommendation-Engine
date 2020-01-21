@@ -5,7 +5,7 @@ Movies & Television Recommender System
 <img src="https://i.ibb.co/Q6XS6pH/motive.png" width="100%">
 
 
-### ◎ THE CONTEXT
+### ◎ The Context
 ### Amazon Movies & TV Dataset
 
 ```
