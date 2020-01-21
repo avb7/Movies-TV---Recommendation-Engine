@@ -2,7 +2,7 @@
  :  Movies & Television Recommender System
 ---
 
-![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png = 383x192)
+![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png =383x192)
 
 Research & Development by:
 - John Jun
