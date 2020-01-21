@@ -4,14 +4,9 @@
 
 ![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png)
 
-Research & Development by:
-- John Jun
-- Abhay Kumar
-- Adi Bhatnagar
+### ◎ CONTEXT
 
-### ◎ THE AMAZON MOVIES & TV DATASET
-
-### Context
+### Amazon Movies & TV Dataset
 
 ```
 Amazon is an eCommerce platform that
