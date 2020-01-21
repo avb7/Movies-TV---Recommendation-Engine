@@ -2,7 +2,8 @@
 ---
 Movies & Television Recommender System
 
-![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png)
+<img src="https://i.ibb.co/Q6XS6pH/motive.png" width="100%">
+
 
 ### ◎ THE CONTEXT
 ### Amazon Movies & TV Dataset
