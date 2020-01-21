@@ -1,6 +1,6 @@
-# Movies/TV Recommendation Engine
+![Motive|Large](https://i.ibb.co/8rYxTCn/motive-icon.png)
 
-![Recommender Engine|Small](https://i.ibb.co/Q6XS6pH/motive.png)
+![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png)
 
 Research & Development by:
 - John Jun
