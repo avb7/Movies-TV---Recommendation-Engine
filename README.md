@@ -1,6 +1,6 @@
 # Movies/TV Recommendation Engine
 
-![Recommender Engine|Small](https://cdn57.androidauthority.net/wp-content/uploads/2019/07/prime-video-fire-stick-screenshot-840x473.jpg)
+![Recommender Engine|Small](https://imgur.com/LyLhoqg)
 
 Research & Development by:
 - John Jun
