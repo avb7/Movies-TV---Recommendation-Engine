@@ -2,7 +2,7 @@
 ---
 Movies & Television Recommender System
 
-<img src="https://i.ibb.co/Q6XS6pH/motive.png" width="100%">
+<img src="https://i.ibb.co/DVGhSJx/motive.png" width="100%">
 
 
 ### ◎ The Context
