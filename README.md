@@ -4,8 +4,7 @@
 
 ![Recommender Engine|Large](https://i.ibb.co/Q6XS6pH/motive.png)
 
-### ◎ CONTEXT
-
+### ◎ THE CONTEXT
 ### Amazon Movies & TV Dataset
 
 ```
@@ -29,5 +28,11 @@ category of products, and will predict
 whether the user will purchase a given
 product or not.
 ```
+
+### ◎ RESEARCH & DEV TEAM
+- Aditya Bhatnagar 
+- John Hun
+- Abhay Kumar
+
 
 [Read the entire research report here](https://github.com/avb7/Movies-TV-Recommendation-Engine/blob/master/Report.pdf "Research Report")
